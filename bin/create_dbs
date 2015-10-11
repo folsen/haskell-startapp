@@ -1,0 +1,3 @@
+createdb startapp_production
+createdb startapp_development
+createdb startapp_test
